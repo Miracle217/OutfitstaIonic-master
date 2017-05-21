@@ -1,0 +1,17 @@
+page-outfits {
+    .cart {
+        top: -5px;
+        right: -8px;
+        position: absolute;
+        padding: 3px 5px;
+        border-radius: 100%;
+    }
+    .detail {
+        ion-icon{
+            position: absolute;
+            right: 30px;
+            top: 30px;
+            font-size: 25px;
+        }
+    }
+}
